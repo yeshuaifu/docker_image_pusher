@@ -1,1 +1,1 @@
-sha256:2219772124255ab309f8741ca8374f1298fd5bc711960a63d48aae59172dd1f7
+pytorch/pytorch:2.7.1-cuda11.8-cudnn9-runtime

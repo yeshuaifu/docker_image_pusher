@@ -1,1 +1,1 @@
-dsw-registry.cn-hangzhou.cr.aliyuncs.com/pai/pytorch
+ac2-registry.cn-hangzhou.cr.aliyuncs.com/ac2/jupyter-pytorch-cuda
